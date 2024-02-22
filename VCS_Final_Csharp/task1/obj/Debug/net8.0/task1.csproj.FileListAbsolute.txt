@@ -1,0 +1,14 @@
+/Users/alekseikorol/Desktop/PYTHON/VCS_Final_Csharp/task1/bin/Debug/net8.0/task1
+/Users/alekseikorol/Desktop/PYTHON/VCS_Final_Csharp/task1/bin/Debug/net8.0/task1.deps.json
+/Users/alekseikorol/Desktop/PYTHON/VCS_Final_Csharp/task1/bin/Debug/net8.0/task1.runtimeconfig.json
+/Users/alekseikorol/Desktop/PYTHON/VCS_Final_Csharp/task1/bin/Debug/net8.0/task1.dll
+/Users/alekseikorol/Desktop/PYTHON/VCS_Final_Csharp/task1/bin/Debug/net8.0/task1.pdb
+/Users/alekseikorol/Desktop/PYTHON/VCS_Final_Csharp/task1/obj/Debug/net8.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alekseikorol/Desktop/PYTHON/VCS_Final_Csharp/task1/obj/Debug/net8.0/task1.AssemblyInfoInputs.cache
+/Users/alekseikorol/Desktop/PYTHON/VCS_Final_Csharp/task1/obj/Debug/net8.0/task1.AssemblyInfo.cs
+/Users/alekseikorol/Desktop/PYTHON/VCS_Final_Csharp/task1/obj/Debug/net8.0/task1.csproj.CoreCompileInputs.cache
+/Users/alekseikorol/Desktop/PYTHON/VCS_Final_Csharp/task1/obj/Debug/net8.0/task1.dll
+/Users/alekseikorol/Desktop/PYTHON/VCS_Final_Csharp/task1/obj/Debug/net8.0/refint/task1.dll
+/Users/alekseikorol/Desktop/PYTHON/VCS_Final_Csharp/task1/obj/Debug/net8.0/task1.pdb
+/Users/alekseikorol/Desktop/PYTHON/VCS_Final_Csharp/task1/obj/Debug/net8.0/task1.genruntimeconfig.cache
+/Users/alekseikorol/Desktop/PYTHON/VCS_Final_Csharp/task1/obj/Debug/net8.0/ref/task1.dll
